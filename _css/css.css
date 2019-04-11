@@ -1,0 +1,253 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+	font-family: whimp;
+	src: url(../_fonts/Whipsmart.ttf);
+}
+.header {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+#footer {
+	background-color: #362822;
+	color: white;
+}
+#footer a {
+	color: white;
+}
+.media {
+	float: right;
+}
+.slider {
+	min-height: 50px;
+	margin-bottom: 20px;
+}
+.list-group {
+	padding: 15px;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+}
+.vidthumb {
+	height: 150px;
+	margin-bottom: 20px;
+	padding: 15px;
+}
+.videodescription {
+	min-height: 80px;
+	margin-bottom: 20px;
+	padding: 10px;
+	font-family: 'Lato', sans-serif;
+}
+.articlelinks {
+	background-color: #362822;
+	margin-bottom: 20px;
+	color: black;
+}
+#videobox {
+	border: 0.5px solid #E7E1E1;
+}
+.videotitle {
+	margin-bottom: 20px;
+	font-size: 25px;
+	background-color: #362822;
+	color: white;
+	padding: 5px;
+	font-family: 'Oswald', sans-serif;
+}
+.subvideotitle {
+	font-size: 25px;
+	font-family: 'Oswald', sans-serif;
+	padding-left: 30px;
+}
+#subtitle {
+	font-size: 10px;
+}
+.title1 {
+	min-height: 50px;
+	background-color: red;
+	margin-bottom: 20px;
+	color: white;
+}
+.title2 {
+	min-height: 50px;
+	background-color: red;
+}
+.background {
+	min-height: 50px;
+	margin-bottom: 20px;
+}
+.footer {
+	min-height: 50px;
+	margin-top: 20px;
+}
+.myname {
+	font-size: 33px;
+	font-family: name;
+	float: right;
+}
+#filmandmedia {
+	float: right;
+}
+.navbar .navbar-nav li a {
+	color: black !important;
+	font-size: 15px;
+}
+.navbar .navbar-nav li a:hover {
+	color: white !important;
+	font-size: 15px;
+}
+.navbar .navbar-nav li {
+	float: left;
+	border-right: 1px solid black;
+	padding: 1px;
+}
+.navigation {
+	margin-bottom: 20px;
+	color: white;
+}
+.navbar .navbar-nav li:last-child {
+	border-right: none;
+}
+.nav-item:hover {
+	background-color: #362822;
+	color: white;
+}
+.navbar .nav-item .dropdown-menu .dropdown-item {
+	color: black!important;
+}
+.navbar .nav-item .dropdown-menu .dropdown-item:hover {
+	color: white!important;
+	background-color: #362822;
+}
+.navbar .nav-link .dropdown-toggle {
+	color: white!important;
+	background-color: black;
+}
+.whoisme {
+	max-height: 270px;
+	padding: 10px;
+	border-radius: 15px 50px;
+	margin-bottom: 20px;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	justify-content: center;
+}
+.vl {
+	border-left: 1px solid black;
+	height: 250px;
+	position: absolute;
+	margin-left: -3px;
+	top: 0;
+}
+.jumbotron {
+	height: 280px;
+	padding: 5px;
+	padding-left: 25px;
+	background-color: #1F1B1A;
+	color: white;
+}
+.carousel-control-prev-icon {
+	margin-left: 120px;
+}
+.carousel-control-next-icon {
+	margin-right: 120px;
+}
+.title {
+	font-size: 25px;
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	padding: 10px;
+}
+.btn {
+	background-color: #362822;
+}
+.bth:hover {
+	background-color: #91AA9D;
+}
+/*Here is the CSS of my image pages*/
+.box {
+	margin-bottom: 20px;
+}
+/*Here is the CSS of my blog1 page*/
+.card-header {
+	background-color: #362822;
+	color: white;
+}
+.articlethumb {
+	min-height: 240px;
+	min-width: 240px;
+	margin-bottom: 20px;
+}
+.articledescription {
+	background-color: green;
+	min-height: 250px;
+	margin-bottom: 20px;
+}
+.articlebackground {
+	min-height: 800px;
+	margin-bottom: 20px;
+	background-color: white;
+	padding: 20px;
+	padding-top: 100px;
+}
+.articleheading {
+	margin-bottom: 40px;
+	font-size: 55px;
+	text-align: center;
+}
+.img-fluid {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+/*Here is the CSS of my About me Page*/
+.experiences a {
+	color: #362822;
+}
+.table {
+	border: 1px solid white;
+}
+.table tbody {
+	padding: 50px;
+}
+.skillsinterest {
+	padding: 15px;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+}
+.stable {
+	color: white;
+	font-family: 'Lato', sans-serif;
+}
+.subhead {
+	font-size: 25px;
+	margin-top: 20px;
+}
+.tables, th, td {
+	border: 1px solid black;
+	padding: 5px;
+}
+.aboutme {
+	min-height: 1120px;
+	margin-bottom: 20px;
+}
+.profilepicture {
+	min-height: 200px;
+	margin-bottom: 20px;
+}
+.myquote {
+	padding: 15px;
+	color: black;
+}
+.skillsinterest {
+	min-height: 800px;
+	background-color: #1F1B1A;
+	margin-bottom: 20px;
+	color: white;
+}
+.experiences {
+	min-height: 700px;
+	margin-bottom: 20px;
+}
+.experiencecontent {
+	padding-left: 50px;
+}
