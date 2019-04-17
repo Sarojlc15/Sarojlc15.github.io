@@ -8,13 +8,15 @@
 	margin-top: 20px;
 	margin-bottom: 10px;
 }
+
 #footer {
 	background-color: #362822;
 	color: white;
+	font-size: 12px;
+	height: 45px;
+	
 }
-#footer a {
-	color: white;
-}
+
 .media {
 	float: right;
 }
@@ -28,7 +30,7 @@
 	font-size: 15px;
 }
 .vidthumb {
-	height: 150px;
+	height: 250px;
 	margin-bottom: 20px;
 	padding: 15px;
 }
@@ -45,6 +47,7 @@
 }
 #videobox {
 	border: 0.5px solid #E7E1E1;
+	
 }
 .videotitle {
 	margin-bottom: 20px;
@@ -251,3 +254,4 @@
 .experiencecontent {
 	padding-left: 50px;
 }
+/*THis is a comment section for my video page*/
